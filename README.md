@@ -1,6 +1,6 @@
 # Resolve Free Bridge
 
-### Automate DaVinci Resolve Free when external scripting is unavailable.
+### Automate DaVinci Resolve Free with Scripting in it.
 
 DaVinci Resolve Free 21.1 changed the scripting/automation landscape:
 the traditional external scripting route isn't available, but the
@@ -22,3 +22,17 @@ But the Resolve Lua Console can still do things like:
 - query render state
 
 This project makes those capabilities usable from outside Resolve.
+
+## How ?
+
+Follow the Steps:-
+ - Click Workspace
+ - Click Console
+
+
+# Message to you -
+
+Fell free to add more command in it to automate as much we can.
+Just follow the style. That's it..
+
+Love you 💖
