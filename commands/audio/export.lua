@@ -1,0 +1,1 @@
+pm=resolve:GetProjectManager();p=pm:GetCurrentProject();t=p:GetCurrentTimeline();p:SetRenderSettings({SelectAllFrames=true,TargetDir="C:\\Temp",CustomName="autosubs_audio.wav",ExportVideo=false,ExportAudio=true});j=p:AddRenderJob();print("JOB:",j);print("START:",p:StartRendering(j))
